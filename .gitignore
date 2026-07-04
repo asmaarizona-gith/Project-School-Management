@@ -1,0 +1,6 @@
+# Qari faylka qaabeynta database-ka haddii uu leeyahay password dhab ah
+config/config.php
+
+# Qari faylasha waaweyn ama kuwa ka dhasha system-ka
+.DS_Store
+Thumbs.db
